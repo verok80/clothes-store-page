@@ -90,6 +90,9 @@ nav{
 .btn{
   margin: 5px;
   background: black;
+  color:#cfd8dc;
+  padding: 3px;
+  font-family: 'Encode Sans Semi Expanded', sans-serif;
 }
 
 
